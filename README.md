@@ -18,4 +18,7 @@ Bookmark is a desktop application which lets you read e-books with high accuracy
 
 ![Login Screen](./bookmark1.jpg "Login Screen")
 
-Credit : https://github.com/oguzturker8/ & https://github.com/atagulalan
+### Authors
+
+ - [Oguzhan Turker](https://github.com/oguzturker8/)
+ - [Ata Gulalan](https://github.com/atagulalan/)
