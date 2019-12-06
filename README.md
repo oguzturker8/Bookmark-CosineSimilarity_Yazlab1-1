@@ -18,6 +18,11 @@ Bookmark is a desktop application which lets you read e-books with high accuracy
 
 ![Login Screen](./bookmark1.jpg "Login Screen")
 
+### Installing
+- Download the project as zip file.
+- Extract the zip file.
+- Run Bookmark.sln
+
 ### Authors
 
  - [Oguzhan Turker](https://github.com/oguzturker8/)
